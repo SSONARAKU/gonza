@@ -1,0 +1,38 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573227109859@s.whatsapp.net',
+    fromMe: false,
+    id: '9DDA35367BF74DDBD4827989614E61B6',
+    participant: undefined
+  },
+  messageTimestamp: 1716396458,
+  pushName: 'yerson benavides',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573227109859'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1bd08303-76f0-448d-9f1d-e87b7160fa9c',
+  keyword: 'key_288e4e52-e118-44ec-b760-eb3137c94611',
+  answer: 'Este es el flujo Welcome',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 100,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '3333ed4eed221cc3a299f3de51d446de'
+}

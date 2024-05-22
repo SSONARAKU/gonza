@@ -1,0 +1,8 @@
+Bienvenido a Matiz Cosmetica Dental
+Cuentanos como podemos apoyarte
+
+Opcion 1 - gg
+Opcion 2 - Agendar cita 
+Opcion 3 - Tengo dudas
+
+Opcion 0 - Salir
